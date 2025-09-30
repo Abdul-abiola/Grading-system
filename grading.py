@@ -14,5 +14,4 @@ elif score >= 0 and score <=35:
     print(f" {name} you got an F")
 else:
     print(f" {name} error")
-
-https://github.com/Abdul-abiola/A-calculator/blob/main/calculator.py#     
+   
